@@ -193,4 +193,3 @@ Last we will want to now go to GitHub and check that we can seet his runner
 
 # License
 
-This library is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.
