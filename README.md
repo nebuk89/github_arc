@@ -1,10 +1,10 @@
-# GitHub actions-runner-controller (ARC)
+# Ben's ARC guide and notes
 
-Welcome to the release repo for the [`actions-runner-controller`](https://github.com/actions-runner-controller/actions-runner-controller). This repo contains the official GitHub release of the Action Runner Controller.
+Welcome my repo for the [`actions-runner-controller`](https://github.com/actions-runner-controller/actions-runner-controller).
 
 `actions-runner-controller` provides GitHub users with the ability to setup auto scaling self-hosted runners for GitHub Actions on a Kubernetes cluster. It provides CRDs (Custom Resource Definition) such as Runner RunnerDeployment HorizontalRunnerAutoscaler, these are used to scale new pods to run your Actions jobs inside.
 
-`actions-runner-controller` is an open-source project currently developed and maintained in collaboration with maintainers @mumoshu and @toast-gear, various [contributors](https://github.com/actions-runner-controller/actions-runner-controller/graphs/contributors), the [awesome community](https://github.com/actions-runner-controller/actions-runner-controller/discussions) and [GitHub](TODO_BLOG_LINK)
+`actions-runner-controller` is an open-source project currently developed and maintained in collaboration with maintainers @mumoshu and @toast-gear, various [contributors](https://github.com/actions-runner-controller/actions-runner-controller/graphs/contributors), the [awesome community](https://github.com/actions-runner-controller/actions-runner-controller/discussions) and 
 
 ## Finding releases
 
